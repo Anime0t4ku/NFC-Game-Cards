@@ -6,6 +6,6 @@ If any of that sounds familiar, then I have the perfect solution for you: an NFC
 
 I must note that I am not responsible for how you obtain the games you play with these cards—please ensure that you source them legally, in accordance with the laws and regulations of your country.
 
-If you'd like to know more about which software or NFC reader you need, head over to wizzo.dev to learn more. You can also join our Discord server, where I, along with other talented people, are active. Feel free to join us and ask questions!
+If you'd like to know more about which software or NFC reader you need, head over to [wizzo.dev](wizzo.dev) to learn more. You can also join our Discord server, where I, along with other talented people, are active. Feel free to join us and ask questions!
 
-All the covers are free to use for personal purposes. If you like what you see and want to support me, you can buy me a cup of coffee at BuyMeACoffee.
+All the covers are free to use for personal purposes. If you like what you see and want to support me, you can buy me a cup of coffee at [BuyMeACoffee](https://discord.com/channels/@me/1188219528845471798/1296584466600558664).
