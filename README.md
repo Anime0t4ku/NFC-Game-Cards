@@ -10,7 +10,7 @@ I made NFC card covers for both steam games and oldschool retro games to be run 
 
 I do not take responsibility for how you obtain the games you end up playing with these card, games need to be sourced in a legal way in accordance to the laws and regulations of the country you reside in.  
 
-if you'd like to know more about which software or reader you need, head on over to wizzo.dev to learn more. You can also join the discord server where I and a lot of other talented people are active so feel free to join us and ask questions!
+if you'd like to know more about which software or reader you need, head on over to [wizzo.dev](http://wizzo.dev) to learn more. You can also join the discord server where I and a lot of other talented people are active so feel free to join us and ask questions!
 
 
 
@@ -20,4 +20,4 @@ if you'd like to know more about which software or reader you need, head on over
 
 
 
-All of the covers are free to be used for personal use. If you like what you see and want to support me anyway you can buy me a cup of coffee here https://buymeacoffee.com/anime0t4ku
+All of the covers are free to be used for personal use. If you like what you see and want to support me anyway you can buy me a cup of coffee [here](https://buymeacoffee.com/anime0t4ku)
