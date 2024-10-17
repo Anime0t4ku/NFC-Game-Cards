@@ -11,4 +11,3 @@ If you'd like to know more about which software or NFC reader you need, head ove
 All the covers are free to use for personal purposes. If you like what you see and want to support me, you can buy me a cup of coffee at [BuyMeACoffee](https://discord.com/channels/@me/1188219528845471798/1296584466600558664).
 
 ![Showcase.](/.Readme/showcase.jpg)
-![Back](.Readme_Assets/Back.jpg)
