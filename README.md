@@ -8,6 +8,6 @@ I must note that I am not responsible for how you obtain the games you play with
 
 If you'd like to know more about which software or NFC reader you need, head over to [wizzo.dev](http://wizzo.dev) to learn more. You can also join our Discord server, where I, along with other talented people, are active. Feel free to join us and ask questions!
 
-All the covers are free to use for personal purposes. If you like what you see and want to support me, you can buy me a cup of coffee at [BuyMeACoffee](https://github.com/Anime0t4ku/NFC-Cards).
+All the covers are free to use for personal purposes. If you like what you see and want to support me, you can buy me a cup of coffee at [BuyMeACoffee](https://buymeacoffee.com/anime0t4ku).
 
 ![Showcase.](/.Readme/showcase.jpg)
